@@ -36,10 +36,11 @@ a:hover {
     color: white;
 }
 
-.navbar nav .buttons {
+.navbar nav .form_container {
     display: flex;
     margin-top: 25px;
     justify-content: space-between;
+    padding: 10px;
 }
 
 .card{
